@@ -38,9 +38,9 @@
 - [Rocket.Chat](https://rocket.chat/) - The Ultimate Open Source WebChat Platform
 - [Gogs](https://gogs.io/) - Gogs(Go Git Service), a painless self-hosted Git Service
 - [Syncthing](https://syncthing.net/) - Open Source Continuous File Synchronization
-- [OpenVPN](https://openvpn.net/) - Open source secure tunneling VPN daemon - Deployed thanks to [openvpn-install](https://github.com/Nyr/openvpn-install)
+- [OpenVPN](https://openvpn.net/) - Open source secure tunneling VPN daemon - use [nyr/openvpn-install](https://github.com/Nyr/openvpn-install/) and [PiVPN](http://pivpn.io/)
 - [Mumble](http://www.mumble.info/) - Voicechat utility
-- [Seafile](https://seafile.com) - Cloud storage with file encryption and group sharing - MariaDB version deployed thanks to [seafile-server-installer](https://github.com/SeafileDE/seafile-server-installer)
+- [Seafile](https://seafile.com) - Cloud storage with file encryption and group sharing - MariaDB version deployed thanks to [seafile-server-installer](https://github.com/haiwen/seafile-server-installer)
 - [Mopidy](https://www.mopidy.com/) - Mopidy plays music from local disk, Spotify, SoundCloud, Google Play Music, and more - With [Mopify](https://github.com/dirkgroenen/mopidy-mopify) - Web Client for Mopidy Music Server and the Pi MusicBox
 - [FreshRSS](http://freshrss.org/) - A free, self-hosted RSS feed aggregator. Lightweight, easy to work with, powerful and customizable
 - [OwnCloud](https://owncloud.org/) - Access & share your files, calendars, contacts, mail & more from any device, on your terms
